@@ -1,1 +1,2 @@
 # Library-Management-System
+The Library Management System is a Java-based application designed to handle the core operations of a library. It enables efficient management of books, users, issue/return records, and provides a structured approach to organizing library data. The system uses Java for the backend logic and MySQL for data storage, demonstrating how these technologies can be integrated to build a functional CRUD-based application.![image](https://github.com/user-attachments/assets/f9c7f812-a4e9-4758-a6cc-dea517da2fdd)
